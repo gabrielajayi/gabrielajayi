@@ -6,13 +6,12 @@ ___
 
     I specialize in server-side programming, data storage & security, QA testing, documentation, webhosting and application logic.
 
-### 🔌Languages & Tools
+### 🔌Languages
 
 <p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="30" height="30"/>
 </p>
                                                   
 ### Get in Touch
